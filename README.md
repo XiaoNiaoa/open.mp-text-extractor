@@ -1,0 +1,1 @@
+# open.mp-translate-tool
